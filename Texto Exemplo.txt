@@ -1,1 +1,1 @@
-Eu só existo na branch exemplo
+Eu existo em ambas as branchs (main e exemplo)
